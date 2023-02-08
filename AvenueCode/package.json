@@ -1,0 +1,14 @@
+{
+  "name": "avenuecode",
+  "version": "1.0.0",
+  "description": "Teste Avenue Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Quezia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.5.1"
+  }
+}
